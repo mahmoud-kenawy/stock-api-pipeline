@@ -113,10 +113,10 @@ The pipeline execution is monitored via the Airflow UI. Below are examples of su
 The project includes Grafana dashboards to visualize dividend trends, payouts, and ticker performance.
 
 ### Overview Dashboard
-![Dashboard Overview](Dashboards%20from%20grafana/Screenshot%202025-10-30%20004645.jpg)
+![Overview Dashboard](Dashboards%20from%20grafana/Screenshot%202025-10-30%20004645.jpg)
 
 ### Detailed Metrics
-![Detailed Metrics](Dashboards%20from%20grafana/Screenshot%202025-10-30%20004805.jpg)
+![Detailed Metrics Dashboard](Dashboards%20from%20grafana/Screenshot%202025-10-30%20004805.jpg)
 
 ## 🔄 Workflow
 
